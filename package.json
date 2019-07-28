@@ -1,0 +1,19 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "challenge"
+  },
+  "author": "Edison Pereira",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^75.1.0",
+    "nightwatch": "^1.1.13"
+  }
+}
