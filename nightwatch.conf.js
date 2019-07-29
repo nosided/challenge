@@ -14,6 +14,7 @@ module.exports = {
         "desiredCapabilities": {
             "browserName": "chrome"
         }
-        }
+        },
+        "skip_testcases_on_fail": false,
     }
   }
